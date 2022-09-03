@@ -1,0 +1,187 @@
+Integer (c++)
+
+256 :
+Meat portion Executed in 0.353889s.
+
+real	0m0.366s total time
+user	0m0.366s cpu time
+sys	0m0.001s 
+
+
+512 :
+Meat portion Executed in 2.78747s.
+
+real	0m2.816s
+user	0m2.813s
+sys	0m0.002s
+
+
+1024:
+Meat portion Executed in 22.6517s.
+
+real	0m22.737s
+user	0m22.688s
+sys	0m0.036s
+
+
+2048:
+Meat portion Executed in 177.601s.
+
+real	2m57.965s
+user	2m57.681s
+sys	0m0.137s
+
+
+4096:
+Meat portion Executed in 1455.25s.
+
+real	24m17.371s
+user	24m15.559s
+sys	0m0.521s
+
+
+
+Double (c++)
+
+256:
+Meat portion Executed in 0.363599s.
+
+real	0m0.379s
+user	0m0.374s
+sys	0m0.004s
+
+
+512:
+Meat portion Executed in 3.02728s.
+
+real	0m3.074s
+user	0m3.043s
+sys	0m0.029s
+
+1024:
+Meat portion Executed in 22.8939s.
+
+real	0m23.011s
+user	0m22.946s
+sys	0m0.053s
+
+
+2048:
+Meat portion Executed in 180.913s.
+
+real	3m1.371s
+user	3m1.074s
+sys	0m0.172s
+
+4096:
+Meat portion Executed in 1636.01s.
+
+real	27m31.218s
+user	27m14.254s
+sys	0m5.819s
+
+
+
+python(double)
+
+
+256:
+0:00:00.345732
+
+real	0m0.529s
+user	0m0.443s
+sys	0m0.085s
+
+512:
+0:00:02.686294
+
+real	0m2.889s
+user	0m2.797s
+sys	0m0.088s
+
+
+1024:
+0:00:21.370337
+
+real	0m21.643s
+user	0m21.512s
+sys	0m0.101s
+
+2048:
+0:02:50.844122
+
+real	2m51.419s
+user	2m51.032s
+sys	0m0.137s
+
+4096:
+:23:04.772396
+
+real	23m6.520s
+user	23m5.135s
+sys	0m0.289s
+
+
+
+
+
+
+python(int):
+
+256:
+0:00:00.329271
+
+real	0m0.524s
+user	0m0.448s
+sys	0m0.076s
+
+
+512:
+0:00:02.534234
+
+real	0m2.750s
+user	0m2.677s
+sys	0m0.069s
+
+1024:
+0:00:20.176176
+
+real	0m20.491s
+user	0m20.400s
+sys	0m0.072s
+
+2048:
+0:02:40.581398
+
+real	2m41.224s
+user	2m40.911s
+sys	0m0.117s
+
+4096:
+0:21:38.602650
+
+real	21m40.554s
+user	21m38.943s
+sys	0m0.393s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
